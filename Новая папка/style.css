@@ -1,0 +1,17 @@
+.wrapper {
+	display: flex;
+	justify-content: start;
+	flex-wrap: wrap;
+	align-items: flex-start;
+	background-color: red;
+	height: 80vh;
+	max-width: 600px;
+}
+
+.item {
+	background-color: pink;
+	padding: 20px;
+	margin: 20px;
+	width: 100px;
+	height: 100px;
+}
